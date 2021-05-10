@@ -1,0 +1,27 @@
+
+.green-bg{
+    background-color: #99d250;
+    border-color:#9eb875;
+}
+.red-bg {
+    background-color: #ec6558;
+    border-color:#d29f97;
+}
+.blue-bg{
+    background-color: #69b5e0;
+    border-color:#8eb8ce;
+
+}
+.white-bg{
+    background-color: #fff;
+    border-color:#c2c2c2;
+
+}
+.yellow-bg{
+    background-color: #f5bf47;
+    border-color:#ecd796;
+
+}
+.light-grey-bg{
+    background-color: #fafafa;
+}

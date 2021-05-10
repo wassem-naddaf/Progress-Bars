@@ -1,0 +1,32 @@
+.absolute-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+.d-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.shadow-sm {
+    box-shadow:1px 2px 2px 0px rgb(12 10 10 / 15%);
+}
+.self-center {
+  align-self: center;
+}
+
+/* Margin and padding */
+.mt-lg {
+  margin-top: 20px;
+}
+.pr-sm {
+  padding-right: 5px;
+}
+.pr-md {
+  padding-right: 10px;
+}
